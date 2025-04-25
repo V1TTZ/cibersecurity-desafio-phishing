@@ -1,5 +1,9 @@
 # Configurando um Phishing para captura de senhas do Facebook
 
+### Habilidades Trabalhadas
+- Configuração de VMs
+- conhecimentos basicos de rede
+
 ### Ferramentas utilizadas:
 - Virtualbox
 - Kali Linux

@@ -1,6 +1,6 @@
-# Phishing para captura de senhas do Facebook
+# Configurando um Phishing para captura de senhas do Facebook
 
-### Ferramentas
+### Ferramentas utilizadas:
 
 - Kali Linux
 - setoolkit

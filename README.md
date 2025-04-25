@@ -1,5 +1,9 @@
 # Configurando um Phishing para captura de senhas do Facebook
 
+### Links utilizados
+- Kali Linux: https://www.kali.org/get-kali/#kali-installer-images
+
+
 ### Habilidades Trabalhadas
 - Configuração de VMs
 - conhecimentos basicos de rede
